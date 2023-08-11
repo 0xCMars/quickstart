@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-08-11T20:35:40+08:00
-draft: true
+draft: false
 ---
 
 ## Introduction
